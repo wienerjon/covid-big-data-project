@@ -1,3 +1,12 @@
 Week of November 22, 2020 
 - Met for the first time and discussed possible topics and data sets to use
 - Split up datasets to clean and started searching for trends
+
+Week of November 29, 2020
+- Cleaned datasets and starting charting refined data
+- Started brainstorming the best way to analyze the data
+
+Week of December 6, 2020
+- Finalized our refined datasets
+- Performed regression analysis on all of the data
+- Wrote project report
