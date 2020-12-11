@@ -45,6 +45,7 @@ https://data.cityofnewyork.us/Public-Safety/Crash-Pedestrians-2020/anau-hnpq#__s
 
 ## Dependancies and Libraries
 
+- Python v3.6.5: https://www.python.org/downloads/
 - Apache Spark v2.4.0: https://spark.apache.org/
 - Pandas v1.14: https://pandas.pydata.org/
 - Matplotlib v2.1.0: https://matplotlib.org/
